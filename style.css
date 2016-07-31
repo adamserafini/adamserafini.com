@@ -19,7 +19,7 @@ h1,h2,h3{
 .selected {
   border-bottom-style: solid;
 }
-.logo:hover{
+.no-touch .logo:hover{
   border-bottom-style: solid;
   cursor: pointer;
 }
