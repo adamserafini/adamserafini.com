@@ -21,4 +21,5 @@ h1,h2,h3{
 }
 .logo:hover{
   border-bottom-style: solid;
+  cursor: pointer;
 }
