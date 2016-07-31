@@ -1,0 +1,24 @@
+body{
+  margin:40px auto;
+  max-width:400px;
+  line-height:1.6;
+  font-size:18px;
+  color:#444;
+  padding:0
+  10px
+}
+h1,h2,h3{
+  line-height:1.2
+}
+.logo{
+  height:24px;
+  height:24px;
+  margin-right: 5px;
+  padding-bottom: 4px;
+}
+.selected {
+  border-bottom-style: solid;
+}
+.logo:hover{
+  border-bottom-style: solid;
+}
